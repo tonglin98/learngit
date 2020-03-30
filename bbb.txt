@@ -1,12 +1,5 @@
-<<<<<<< HEAD
-tttttt
-ssssss
-
-
-
-
-=======
-111
-999999999999999999999999999999
-
->>>>>>> 7f6739f7f3cf2df589213072e8f77f684de7f90e
+#include<stdio.h>
+int main(){
+  printf('今天是个好日子!');
+  return 0;
+}
